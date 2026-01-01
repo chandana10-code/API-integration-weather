@@ -63,3 +63,5 @@ Weather information systems displaying real-time updates
 News platforms fetching live headlines and articles
 
 #Output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bb8d2d1b-91a7-4151-a9de-b5e1fa53c868" />
